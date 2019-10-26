@@ -9,5 +9,8 @@
 // 1. user log in
 // 2. remembering where user left off at. 
 // 3. incorporate selecting pieces, seeing move options, and selecting location.
-// 4. integrating snake button to turn chess board into snake game. 
 // 5. see if it’s possible to play chess in node terminal.
+
+//incorporate multiple games (snake i.e.)
+//possibly links to the individual pages.
+//find games that need coding but with the code already completed to make this simpler.

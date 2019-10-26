@@ -2,7 +2,7 @@
     "development": {
         "username": "root",
         "password": "UNSCmember117",
-        "database": "chess_db",
+        "database": "games_db",
         "host": "localhost",
         "dialect": "mysql"
     },
